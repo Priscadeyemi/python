@@ -1,0 +1,27 @@
+## Datatypes
+num1="douglas" ## string
+num2= 35 ## integer
+num3= 45.0 ## float
+num4= True
+print(num1)
+print(num2)
+print(num3)
+print(num4)
+
+## string methods
+## new line
+word1= "python is fun\npython is easy\npython is fast"
+print(word1)
+
+##multi lines
+multi=""" python is fun
+python is easy
+python is fast
+"""
+print(multi)
+
+## string concatenation
+word1="my name is" + " "
+word2="Divine"
+word3= word1 + word2
+print(word3)
